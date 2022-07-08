@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import*
-fromtkinter import messagebox
+from tkinter import messagebox
 from PIL import Image, ImageTk
 import numpy as np
 from time import strftime
