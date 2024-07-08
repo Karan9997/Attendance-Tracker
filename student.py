@@ -287,7 +287,7 @@ class Student:
                 self.var_year.set("Select")
                 self.var_sem.set("Select")
                 self.var_email.set("")
-                self.var_radio1.get( )
+                self.var_radio1.set("")
 
    #generating data set or take photo samples
     def generate_dataset(self):
